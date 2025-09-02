@@ -1,1 +1,1 @@
-print("Hello, Jenkins from Python!")
+print("Hello, Jenkins from GitHub!")
